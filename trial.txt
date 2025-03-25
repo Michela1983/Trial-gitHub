@@ -1,1 +1,3 @@
 Hi I am Miky, a student in Web Development at Vanier College.
+I am currently in my 2nd term.
+I am learning TypeScript, Python, PHP, mySQL, Bootstrap, jQuery and so much more...
